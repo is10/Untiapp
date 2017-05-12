@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/tetty/.android/build-cache/13ac0aff090960389ee7c12da4eadb7810c480a6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/tetty/.android/build-cache/50373c9bcc972eca3039c47acbca42bc14e41251/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/tetty/.android/build-cache/55eb2a0f23930a4c8e18f152fcafb559bfacc5b8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/tetty/.android/build-cache/0da4006d4a9191463ff47ca1ebdc0ab6f326ac5d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/tetty/.android/build-cache/462e4ac5298852931ffe1c4b1f8e9c5d3e99312c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/tetty/.android/build-cache/45c45b0804ee395849e6d77829dd22fde740ac4a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/tetty/.android/build-cache/10b73cf7a8608c58978990bfd36817a6f178a2b1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/tetty/.android/build-cache/5c46afbd78df5a24fe880951f8e42bce3ba0648e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tetty/.android/build-cache/7c0d9023edf50fb3b01c608dee271604841a069c/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.itdharman.droppedpoo.StartActivity
+ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:12:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] /Users/tetty/.android/build-cache/13ac0aff090960389ee7c12da4eadb7810c480a6/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/tetty/.android/build-cache/50373c9bcc972eca3039c47acbca42bc14e41251/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/tetty/.android/build-cache/55eb2a0f23930a4c8e18f152fcafb559bfacc5b8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/tetty/.android/build-cache/0da4006d4a9191463ff47ca1ebdc0ab6f326ac5d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/tetty/.android/build-cache/462e4ac5298852931ffe1c4b1f8e9c5d3e99312c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/tetty/.android/build-cache/45c45b0804ee395849e6d77829dd22fde740ac4a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/tetty/.android/build-cache/10b73cf7a8608c58978990bfd36817a6f178a2b1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] /Users/tetty/.android/build-cache/5c46afbd78df5a24fe880951f8e42bce3ba0648e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tetty/.android/build-cache/7c0d9023edf50fb3b01c608dee271604841a069c/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tetty/AndroidStudioProjects/droppedPoo/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/tetty/.android/build-cache/13ac0aff090960389ee7c12da4eadb7810c480a6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/tetty/.android/build-cache/50373c9bcc972eca3039c47acbca42bc14e41251/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/tetty/.android/build-cache/55eb2a0f23930a4c8e18f152fcafb559bfacc5b8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/tetty/.android/build-cache/0da4006d4a9191463ff47ca1ebdc0ab6f326ac5d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/tetty/.android/build-cache/462e4ac5298852931ffe1c4b1f8e9c5d3e99312c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/tetty/.android/build-cache/45c45b0804ee395849e6d77829dd22fde740ac4a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/tetty/.android/build-cache/10b73cf7a8608c58978990bfd36817a6f178a2b1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/tetty/.android/build-cache/5c46afbd78df5a24fe880951f8e42bce3ba0648e/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/AndroidManifest.xml:26:9-47

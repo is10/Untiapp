@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

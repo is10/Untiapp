@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

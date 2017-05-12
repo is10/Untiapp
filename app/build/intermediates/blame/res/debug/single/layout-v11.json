@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

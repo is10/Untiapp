@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/tetty/AndroidStudioProjects/droppedPoo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/tetty/.android/build-cache/95e3468167c585eb95ad4534bb4083f8f7a98526/output/res/color/switch_thumb_material_dark.xml"
+    }
+]
